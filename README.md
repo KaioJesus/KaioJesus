@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kaio Jesus!
 
 - 🔭 Atualmente venho fazendo os projetos do FrontEndMentor.io
-- 🌱 Atualmente venho estudando: HTML, CSS, JavaScript
+- 🌱 Atualmente venho desenvolvendo projetos com: HTML, CSS, JavaScript
 
 ## 🛠 Tecnologias
 
