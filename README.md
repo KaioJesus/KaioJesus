@@ -1,9 +1,5 @@
 ## Olá, eu sou o Kaio Jesus!
 
-
-##
-
-<br>
 <!---
 - Web illustrations by Storyset ( https://storyset.com/web )
 --->
