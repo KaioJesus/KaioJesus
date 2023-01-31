@@ -1,7 +1,30 @@
 ## Olá, eu sou o Kaio Jesus!
 
+
+##
+
+<br>
+<!---
+- Web illustrations by Storyset ( https://storyset.com/web )
+--->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+
+
+<!---
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+--->
+
+
+<br>
+
 - 🔭 Atualmente venho fazendo os projetos do FrontEndMentor.io
 - 🌱 Atualmente venho desenvolvendo projetos com: HTML, CSS, JavaScript
+
+## Objetivos
+
+- Melhorar minhas habilidades com JavaScript
+- Aprender React e TypeScript
+- Aprender mais sobre Git
 
 ## 🛠 Tecnologias
 
