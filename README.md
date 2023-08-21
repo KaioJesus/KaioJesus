@@ -26,7 +26,7 @@
 
 ## 🛠 Tecnologias
 
-<div style="display: flex; justify-contenr: center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30px" width="30px"/>
@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" width="30px" />
 </div>
 
+<br >
+<br >
 <div>
   <a href="https://github.com/KaioJesus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioJesus&layout=compact&langs_count=7&theme=dracula"/>
