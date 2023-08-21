@@ -15,19 +15,24 @@
 
 - 🔭 Atualmente venho fazendo os projetos do FrontEndMentor.io
 - 🌱 Atualmente venho desenvolvendo projetos com: HTML, CSS, JavaScript
+- 🅰️ Aprendendo Angular e TypeScript
 
 ## Objetivos
 
+- Aprender Node
 - Melhorar minhas habilidades com JavaScript
 - Aprender React e TypeScript
 - Aprender mais sobre Git
 
 ## 🛠 Tecnologias
 
-<div>
+<div style="display: flex; justify-contenr: center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30px" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30px" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" width="30px" />
 </div>
 
 <div>
